@@ -1,0 +1,41 @@
+html {
+    font-family: Georgia, Helvetica, sans-serif;
+}
+
+h3 {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#guy {
+    height: 300px;
+    margin: 1%;
+}
+
+#girl {
+    width: 200px;
+    margin: 1%;
+}
+
+#SkillsHeader {
+    color: green;
+    text-transform: uppercase;
+}
+
+.felis {
+    font-size: 16px;
+    /*border-style: solid;*/
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-div {
+    background-color: indigo;
+}
+
+img {
+    box-shadow: 3px 3px 10px black;
+    margin: 10px;
+}
