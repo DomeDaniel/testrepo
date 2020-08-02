@@ -39,3 +39,7 @@ img {
     box-shadow: 3px 3px 10px black;
     margin: 10px;
 }
+
+.inputting {
+    display: block;
+}
